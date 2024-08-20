@@ -1,0 +1,20 @@
+**Project Proposal**
+
+*Description*
+
+Stack Focus	:	The capstone project is more back-end focused, since the majority of the project will 
+			focus on retreiving and sending information to a database or externally.  The project
+			will be using React for the front-end interface and Node.js for the back-end applications.  
+			The database portion of the project will be using PostgreSQL to help store information
+			on the various air-conditioning systems and users to recieve their recommendations.
+
+Type		:	The project will be a website that the user would use to receive recommendations for 
+			an air-conditioning system.
+
+Goal		:	The goal of the project is to have the user receive a recommended air-conditioning
+			system that they would be able to send for more information and pricing.
+
+Users		:	The demographic for this project would be potential customers who are in the market for
+			air-conditioning systems.
+
+Data		:	I will be using data from an XML file that I have access to from my current position.
